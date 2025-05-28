@@ -10,6 +10,10 @@
 - 异常报警与位置标记
 - 数据存储与导出（支持SD卡）
 
+## ov2640尺寸图
+![OV2640](https://www.waveshare.net/w/upload/d/d5/OV9655-2640-Camera-Board-size.jpg)
+
+
 ## 硬件组成
 | 模块          | 型号               | 连接方式  | 功能说明            |
 |---------------|--------------------|-----------|---------------------|
@@ -19,7 +23,7 @@
 | 显示模块      | 1.3寸OLED          | SPI       | 实时数据显示        |
 | 存储模块      | microSD卡槽        | SDIO      | 数据存储            |
 | 电源管理      | 5V/2A电源适配器    | USB       | 系统供电            |
-![OV2640]([https://via.placeholder.com/600x300.png?text=System+Architecture](https://www.waveshare.net/w/upload/d/d5/OV9655-2640-Camera-Board-size.jpg))
+
 ## 软件架构
 ```plaintext
 ├── Drivers/
